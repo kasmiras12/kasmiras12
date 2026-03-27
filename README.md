@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Kasmira! 👋
 
-<!--
-**kasmiras12/kasmiras12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I architect and implement **production AI systems** that transform business operations. My journey from business operations to AI architecture gives me a unique perspective on bridging technical innovation with practical business outcomes.
 
-Here are some ideas to get you started:
+### 🛠 Core Expertise:
+- **AI System Architecture & LLM Optimization**
+- **Multi-Agent Orchestration & RAG Implementation**
+- **Full-Stack Development (Python, React, FastAPI)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasmiras)
+
+---
+*“Focusing on delivering solutions that directly impact the bottom line.”*
